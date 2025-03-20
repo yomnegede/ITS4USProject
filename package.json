@@ -1,0 +1,19 @@
+{
+  "name": "its4usproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "maplibre-gl": "^5.0.0",
+    "pmtiles": "^4.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-scripts": "^5.0.1"
+  }
+}
