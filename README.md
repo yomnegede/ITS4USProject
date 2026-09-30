@@ -1,4 +1,4 @@
-# ITS4US Project
+# AccessibleATL
 
 A React + MapLibre web app for exploring the ITS4US and Downtown Atlanta geographic areas with layered map data, building footprints, and place/address information.
 
